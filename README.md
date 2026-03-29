@@ -1,5 +1,4 @@
 # The Hollowed Spread
-Forge 1.12.2
 
 ![GitHub License](https://img.shields.io/github/license/Boron8/The-Hollowed-Spread)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Boron8/The-Hollowed-Spread)
